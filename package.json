@@ -179,7 +179,7 @@
     "yauzl": "^2.10.0"
   },
   "scripts": {
-    "test": "cypress open"
+    "test": "npm start & cypress run"
   },
   "author": "Annu Jawanda",
   "license": "ISC"
